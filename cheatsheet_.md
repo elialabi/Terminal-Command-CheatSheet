@@ -32,7 +32,9 @@ Use this command to delete an empty directory.
 
 
 <h3>5. cp: Copy a file </h3> 
-Use this command to copy a file from one location to another.
+Use this command to copy a file from one location to another. You can also use `cd` to change directory and
+`cd ..` to take you to the parent directory.
+
 
 >Example: cp my_file.txt Documents
 
@@ -91,4 +93,4 @@ Insert this command to make further changes
 
 Use the git log command to show us a history of what has happened in the repository so far.
 
->Tip: Press q to return to the command key!
+>Tip: Press `q` to return to the command key!
