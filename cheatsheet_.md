@@ -1,8 +1,13 @@
 # Terminal Command-Line Cheat Sheet
 
+<h2> General Commands</h2>
+
 <h3>1. cd: Change directory </h3>
 Use this command to navigate between folders.
+
 >- Example: cd Documents
+
+
 
 <h3>2. ls: List directory contents</h3>
 
@@ -66,4 +71,24 @@ Use this command to search for a string of text in a file.
 
 >Example: grep “hello” my_file.txt
 
+<h2> Git & Github Commands </h2>
 
+<h3> Commit to Changes </h3>
+
+Insert this command to make an commit 
+
+>git commit -m "add file"
+
+
+Insert this command to make further changes 
+
+>git add .
+>
+>git commit -m "insert description of change"
+
+
+<h3> Show History </h3>
+
+Use the git log command to show us a history of what has happened in the repository so far.
+
+>Tip: Press q to return to the command key!
